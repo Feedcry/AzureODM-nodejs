@@ -1,5 +1,5 @@
 {
-  "name": "AzureODM",
+  "name": "azure-odm",
   "version": "0.0.1",
   "description": "Lightweight ODM for Azure Table Storage Services, inspired by Mongoose",
   "main": "./AzureODM/index.js",

@@ -23,6 +23,12 @@ Lightweight ODM for Azure Table Storage Services, inspired by Mongoose
 
 # Quick Guide
 
+## Installation
+
+*not production ready!!!!*
+
+`npm install azure-odm`
+
 ## Define Model
 
 ```js
