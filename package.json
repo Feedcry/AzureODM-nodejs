@@ -1,0 +1,37 @@
+{
+  "name": "AzureODM-nodejs",
+  "version": "0.0.1",
+  "description": "Lightweight ODM for Azure Table Storage Services, inspired by Mongoose",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "Make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Feedcry/AzureODM-nodejs.git"
+  },
+  "keywords": [
+    "azure",
+    "ODM"
+  ],
+  "author": "Chen Liang, code@chen.technology",
+  "license": "Copyright © Chen Liang 2014 All Rights Reserved",
+  "dependencies": {
+    "azure": "^0.9.10",
+    "bluebird": "^2.1.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "^1.9.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-concurrent": "~0.5.0",
+    "chai-things": "~0.2.0",
+    "sinon": "~1.9.0",
+    "sinon-chai": "~2.5.0",
+    "chai-as-promised": "~4.1.0"
+  }
+}

@@ -1,0 +1,7 @@
+--require chai
+--globals chai
+--check-leaks
+--recursive
+--sort
+test/test.*.js
+test/AzureODM/test.*.js
